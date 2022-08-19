@@ -1,5 +1,4 @@
 hello atguigu! hello git! 666666
-hello atguigu! hello git!hot-fix666
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
@@ -13,4 +12,5 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
+hello atguigu! hello git!master test
 hello atguigu! hello git!hot-fix test
